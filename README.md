@@ -10,6 +10,7 @@ Assurez-vous d'avoir installé les dépendances nécessaires en exécutant :
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Utilisation
 Pour lancer l’application, exécutez la commande suivante :
